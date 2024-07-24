@@ -1,0 +1,6 @@
+*.json
+*.html
+*__pycache__
+myvenv
+.env
+./src/main_DB
